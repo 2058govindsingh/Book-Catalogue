@@ -1,0 +1,24 @@
+
+
+SOURCE OF ERROR :-
+
+•	Install additonal fonts i.e. Aleo, Alegreya, Permanent marker given in project folder/fonts.
+
+•	Internet connection is required for using personal wikipedia
+
+
+•	Project.py file show be opened inside the images folder only or create shortcut to 
+open anywhere in the system
+
+
+•	Searching unrelevent things in wikipedia might cause an error
+
+
+•	Deleting any image in the image folder will lead to an error
+
+
+•	Required modules to be imported using (pip install <module name>) in cmd prompt
+Module name- tkinter, os, wikipedia, pillow, mysql.connector, random
+
+•	Delete register_table,book_table if peviously exists in the same database named gp
+
