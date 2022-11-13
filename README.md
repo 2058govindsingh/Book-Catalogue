@@ -10,13 +10,12 @@
 ## App Screenshots :
 ![image](https://user-images.githubusercontent.com/91799812/201522819-9ff87a6f-8cf7-469d-a194-02627c8d1d66.png)
 ![image](https://user-images.githubusercontent.com/91799812/201523228-9808ec8d-d131-437a-9412-62be5a7f995e.png)
-![image](https://user-images.githubusercontent.com/91799812/201523791-77e19a1d-495b-47fc-8d7c-4e6672c4d89c.png)
 ![image](https://user-images.githubusercontent.com/91799812/201523785-cc6d8862-15f2-40f3-a152-6f56cfa75703.png)
-![image](https://user-images.githubusercontent.com/91799812/201523801-a14fa053-3984-4eee-80ad-83945d374375.png)
+![image](https://user-images.githubusercontent.com/91799812/201523791-77e19a1d-495b-47fc-8d7c-4e6672c4d89c.png)
 ![image](https://user-images.githubusercontent.com/91799812/201523797-baba7f01-9250-4e67-90e7-153e1a495d75.png)
-![image](https://user-images.githubusercontent.com/91799812/201523814-f484bc1e-4418-419a-bd22-9b0f4030d8f7.png)
-![image](https://user-images.githubusercontent.com/91799812/201523806-7fc6e615-01e8-437b-8639-4690f2eebd5f.png)
+![image](https://user-images.githubusercontent.com/91799812/201523801-a14fa053-3984-4eee-80ad-83945d374375.png)
 ![image](https://user-images.githubusercontent.com/91799812/201523810-7455f2dc-c126-4429-a1a9-a9142c01aff5.png)
+![image](https://user-images.githubusercontent.com/91799812/201523814-f484bc1e-4418-419a-bd22-9b0f4030d8f7.png)
 ## Sources Of Error :
 * Install additonal fonts i.e. Aleo, Alegreya, Permanent marker given in project folder/fonts.
 * Internet connection is required for using personal wikipedia
